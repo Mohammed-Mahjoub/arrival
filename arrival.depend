@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1649065080 source:c:\users\mmahjoub\documents\arrival\src\queue.cpp
+	"Queue.h"
+
+1649065080 c:\users\mmahjoub\documents\arrival\include\queue.h
+
+1649065080 source:c:\users\mmahjoub\documents\c++\arrival\src\queue.cpp
+	"Queue.h"
+
+1649065080 c:\users\mmahjoub\documents\c++\arrival\include\queue.h
+
